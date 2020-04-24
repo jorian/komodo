@@ -69,15 +69,6 @@
     "ac_supply": "999999"
   },
   {
-    "ac_name": "K64",
-    "ac_reward": "0",
-    "ac_supply": "64000777",
-    "ac_staked": "10",
-    "addnode": [
-      "18.197.20.21"
-    ]
-  },
-  {
     "ac_name": "KOIN",
     "ac_supply": "125000000",
     "addnode": [
@@ -193,6 +184,18 @@
     "ac_cc": "333"
   },
   {
+    "ac_name": "STBL",
+    "ac_supply": "50000000",
+    "ac_cc": "1",
+    "ac_public": "1",
+    "ac_adaptivepow": "1",
+    "ac_end": "1",
+    "addnode": [
+      "142.93.173.53",
+      "68.183.74.250"
+    ]
+  },
+  {
     "ac_name": "SUPERNET",
     "ac_supply": "816061"
   },
@@ -224,25 +227,6 @@
       "95.213.238.98",
       "38.91.101.236",
       "2.56.153.50"
-    ]
-  },
-  {
-    "ac_name": "VRSC",
-    "ac_algo": "verushash",
-    "ac_cc": "1",
-    "ac_veruspos": "50",
-    "ac_supply": "0",
-    "ac_eras": "3",
-    "ac_reward": "0,38400000000,2400000000",
-    "ac_halving": "1,43200,1051920",
-    "ac_decay": "100000000,0,0",
-    "ac_end": "10080,226080,0",
-    "ac_timelockgte": "19200000000",
-    "ac_timeunlockfrom": "129600",
-    "ac_timeunlockto": "1180800",
-    "addnode": [
-      "185.25.48.236",
-      "185.64.105.111"
     ]
   },
   {
@@ -282,18 +266,6 @@
     "ac_sapling": "5000000",
     "addnode": [
       "51.68.215.104"
-    ]
-  },
-  {
-    "ac_name": "STBL",
-    "ac_supply": "50000000",
-    "ac_cc": "1",
-    "ac_public": "1",
-    "ac_adaptivepow": "1",
-    "ac_end": "1",
-    "addnode": [
-      "142.93.173.53",
-      "68.183.74.250"
     ]
   }
 ]
